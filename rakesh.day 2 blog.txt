@@ -1,0 +1,30 @@
+Document object:
+
+1) when HTML documents is loaded in window it become a document object.
+
+2) The document object on window it is in HTML form.
+
+3) The document object has various property which allow to access to modification of webpage.
+
+4)  Document object is child property of window object
+
+5) In javascript if you want to acces the document ,the content of documents is in HTML so  document object 
+    provide different element such as anchor, links to make changes in document 
+
+6) Title, properties, url are various property of document object to make changes in webpage by javascript
+
+
+
+Window object:
+
+1) Window object is topmost object of DOM Hirearchy
+
+2) It represent frame of window who display content of webpage in open window  browser..
+
+3) Whenever a window apper on screen to display content of document on window object is created in it.
+
+4)  Document object is include in window object. Document objectalert is a part of window object.
+
+5) Closed, console are various property of window object
+
+6) alert(), display(),prompt() are various method of window object.
